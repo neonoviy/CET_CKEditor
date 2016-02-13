@@ -1,0 +1,22 @@
+.fix-modepanel{
+	position: fixed !important;
+	top: 55px;
+	display: block;
+	width: inherit;
+	z-index: 100;
+}
+.x-shadow{
+	z-index: 99002 !important;
+}
+.x-window{
+	z-index: 99003 !important;
+}
+.x-menu{
+	z-index: 150003 !important;
+}
+.x-combo-list{
+	z-index: 150004 !important;
+}
+#modx-resource-content .x-panel-body{
+	padding: 0 !important;
+}
